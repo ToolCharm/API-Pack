@@ -1,5 +1,0 @@
-Functionality: {{functionality}}
-Description: {{description}}
-Endpoint: {{endpoint}}
-
-API: {{api_name}}

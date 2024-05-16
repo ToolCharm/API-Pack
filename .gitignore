@@ -1,0 +1,6 @@
+base_model_gen/data/*
+base_model_gen/openapi_spec/*
+base_model_gen/node_modules/*
+base_model_gen/scraped*
+
+.DS_Store
