@@ -1,6 +1,9 @@
-base_model_gen/data/*
-base_model_gen/openapi_spec/*
-base_model_gen/node_modules/*
-base_model_gen/scraped*
+base_model_gen/step 1/data/*
+base_model_gen/step 1/openapi_spec*
+base_model_gen/step 1/node_modules/*
+base_model_gen/step 1/scraped*
+base_model_gen/step 1/node_modules*
+base_model_gen/step 3/*.csv
+base_model_gen/step 3/*.txt
 
 .DS_Store
